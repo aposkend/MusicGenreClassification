@@ -13,6 +13,7 @@ The dataset utilized in this project is sourced from GTZAN (https://www.kaggle.c
 4.Representation in RGB Format: Transform the mel spectrograms into RGB format for compatibility with convolutional neural networks.
 
 Melspectrogram in RGB with different gerne:
+![alt text](https://github.com/aposkend/MusicGenreClassification/blob/main/Mel.png)
 
 ## Training: <br />
 1. Data Splitting: Split the preprocessed data into training and testing sets with a ratio of 85:15.
