@@ -1,7 +1,5 @@
 # MusicGenreClassification
 
-介紹：https://drive.google.com/file/d/1pfpDK3ToswrLq0RI65SopvH7DNHIN4cv/view?usp=sharing
-
 ## Introduction: <br />
 This project focuses on classifying music genres using convolutional neural networks, specifically employing the ResNet50V2 architecture.
 
